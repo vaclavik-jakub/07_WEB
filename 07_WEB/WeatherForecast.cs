@@ -1,3 +1,5 @@
+using Microsoft.AspNetCore.Authorization;
+
 namespace _07_WEB
 {
     public class WeatherForecast
